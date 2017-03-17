@@ -1,0 +1,6 @@
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe.config
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.pdb
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.csprojResolveAssemblyReference.cache
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.exe
+c:\users\ronald.junior\documents\visual studio 2015\Projects\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.pdb
